@@ -1,0 +1,6 @@
+.form {
+    height: 120px;
+    width: 350px;
+    border-radius: 5px;
+    display: grid;
+}
